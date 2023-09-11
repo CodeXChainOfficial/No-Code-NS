@@ -1,0 +1,15 @@
+<svg width="892" height="64" viewBox="0 0 892 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="892" height="64" fill="black"/>
+<rect width="64" height="64" rx="16" fill="#40CD81"/>
+<path d="M36.455 27.4547C36.6663 27.2536 36.9475 27.1424 37.2392 27.1446C37.531 27.1468 37.8104 27.2622 38.0187 27.4666C38.2269 27.6709 38.3476 27.9482 38.3553 28.2398C38.363 28.5314 38.2571 28.8147 38.06 29.0297L32.075 36.5147C31.9721 36.6256 31.8479 36.7145 31.7098 36.7763C31.5717 36.838 31.4226 36.8713 31.2714 36.8741C31.1201 36.8769 30.9699 36.8492 30.8296 36.7926C30.6894 36.736 30.5619 36.6517 30.455 36.5447L26.486 32.5757C26.3755 32.4727 26.2868 32.3485 26.2253 32.2105C26.1638 32.0725 26.1308 31.9236 26.1281 31.7725C26.1254 31.6215 26.1532 31.4714 26.2098 31.3313C26.2664 31.1913 26.3506 31.064 26.4574 30.9572C26.5643 30.8504 26.6915 30.7661 26.8316 30.7096C26.9717 30.653 27.1217 30.6252 27.2728 30.6278C27.4238 30.6305 27.5728 30.6636 27.7108 30.7251C27.8488 30.7866 27.973 30.8752 28.076 30.9857L31.217 34.1252L36.4265 27.4877C36.4359 27.4762 36.4444 27.4652 36.455 27.4547Z" fill="white"/>
+<path d="M80 32H260" stroke="#40CD81" stroke-width="3" stroke-linecap="round"/>
+<rect x="276" width="64" height="64" rx="8" fill="#009DFF"/>
+<path d="M323.28 18.82L320.66 15H291V30.28H320.66L323.28 26.46L325.91 22.64L323.28 18.82Z" stroke="white" stroke-opacity="0.9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M323.28 37.8805L320.66 34.0605H291V49.3405H320.66L323.28 45.5205L325.91 41.7005L323.28 37.8805Z" stroke="white" stroke-opacity="0.9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M298.33 39.2402H307.63" stroke="white" stroke-opacity="0.9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M298.33 43.0098H318.58" stroke="white" stroke-opacity="0.9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M356 32H536" stroke="white" stroke-opacity="0.3" stroke-width="3" stroke-linecap="round"/>
+<rect x="552" width="64" height="64" rx="8" fill="white" fill-opacity="0.3"/>
+<path d="M632 32H812" stroke="white" stroke-opacity="0.3" stroke-width="3" stroke-linecap="round"/>
+<rect x="828" width="64" height="64" rx="8" fill="white" fill-opacity="0.3"/>
+</svg>
