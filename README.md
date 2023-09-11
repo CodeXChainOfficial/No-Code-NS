@@ -1,6 +1,4 @@
-## andrea_bello_s_application8
-
-Generated with ❤️ from [DhiWise](https://www.dhiwise.com)
+## No-Code Name Services config FE
 
 ## Description
 
